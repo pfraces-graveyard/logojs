@@ -1,0 +1,14 @@
+{
+  "name": "logojs",
+  "version": "0.1.0",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-pegjs": "0.0.1",
+    "gulp-wrapper": "^1.0.0"
+  },
+  "scripts": {
+    "build": "gulp build"
+  }
+}
